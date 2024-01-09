@@ -17,7 +17,9 @@ Ich würde gerne einen Taschenrechner mit Win-Forms machen, welcher Einstellunge
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich verschiedene Sachen ausprobiert, unter anderem habe ich mir überlegt, meine Website weiterzumachen, 
+habe mich dann aber für einen WinForms-Taschenrechner entschieden, welcher ein Menü hat, um verschiedene Farben auszuwählen. 
+Darauf folgend habe ich in WinForms verschiedene Sachen ausprobiert, um sicherzugehen, dass mein Projekt auch Funktionieren würde. ( 54 Wörter)
 
 ## 16.1 und 23.1.2024
 
@@ -26,11 +28,11 @@ Ich würde gerne einen Taschenrechner mit Win-Forms machen, welcher Einstellunge
 - [ ] Alle anderen Zahlen funktionieren
 - [ ] Die + Taste macht ein + in die Text Box
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 1            | Programm in VS gestartet| Auf die Taste 1 drücken | 1 im Text Feld|          |
+| 2            | Programm in VS gestartet | Auf die Tasten 1-9 drücken | 1-9 im Text Feld|          |
+| 3            | Program in VS gestartet | Auf die Taste + drücken | + im Text Feld |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -38,16 +40,18 @@ Ich würde gerne einen Taschenrechner mit Win-Forms machen, welcher Einstellunge
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-
-- [ ] Achtes AP
+- [ ] +/-/Enter Tasten Funktionieren
+- [ ] +/-/Enter Tasten Funktionieren / Extra Knopf für Einstellungen
+- [ ] Extra Knopf für Einstellungen / Einstellungen Menü 
+- [ ] Man kann die Farbe Blau auswählen dann sind die Knöpfe Blau.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
+| 1        |    Program in VS gestartet  | 1+1 per Tasten eingeben, dann Enter  |  2 im Textfeld |          |
+| 2     |   Program in VS gestartet    | 1-1 per Tasten eingeben, dann Enter  |    0 im Textfeld  |          |
+| 3   |  Program in VS gestartet  | Options Taste gedrückt  |   Options Menü öffnet sich   |          |
+| 4           |   Program in VS gestartet  | Options Taste gedrückt, Blau im Menü aussgewählt, zurück gedrückt | Knöpfe vom Taschenrechner sind Blau  |          |
+
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
