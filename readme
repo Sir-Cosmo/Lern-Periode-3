@@ -21,9 +21,10 @@ Ich würde gerne einen Taschenrechner mit Win-Forms machen, welcher Einstellunge
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] In WinForms das Layout vom Taschenrechner machen.
+- [ ] Wenn man die Taste 1 drückt im Programm wird eine 1 in der Text Box angezeigt
+- [ ] Alle anderen Zahlen funktionieren
+- [ ] Die + Taste macht ein + in die Text Box
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
