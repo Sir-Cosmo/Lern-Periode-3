@@ -1,0 +1,10 @@
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\bin\Debug\LP3-Taschenrechner.exe.config
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\bin\Debug\LP3-Taschenrechner.exe
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\bin\Debug\LP3-Taschenrechner.pdb
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3-Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3_Taschenrechner.Properties.Resources.resources
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3-Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3-Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3-Taschenrechner.exe
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3-Taschenrechner.pdb
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3_Taschenrechner.Form1.resources
