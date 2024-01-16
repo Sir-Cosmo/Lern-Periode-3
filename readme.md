@@ -23,20 +23,20 @@ Darauf folgend habe ich in WinForms verschiedene Sachen ausprobiert, um sicherzu
 
 ## 16.1 und 23.1.2024
 
-- [ ] In WinForms das Layout vom Taschenrechner machen.
-- [ ] Wenn man die Taste 1 drückt im Programm wird eine 1 in der Text Box angezeigt
-- [ ] Alle anderen Zahlen funktionieren
-- [ ] Die + Taste macht ein + in die Text Box
+- [X] In WinForms das Layout vom Taschenrechner machen.
+- [X] Wenn man die Taste 1 drückt im Programm wird eine 1 in der Text Box angezeigt
+- [X] Alle anderen Zahlen funktionieren
+- [X] Die + Taste macht ein + in die Text Box
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1            | Programm in VS gestartet| Auf die Taste 1 drücken | 1 im Text Feld|          |
-| 2            | Programm in VS gestartet | Auf die Tasten 1-9 drücken | 1-9 im Text Feld|          |
-| 3            | Program in VS gestartet | Auf die Taste + drücken | + im Text Feld |          |
+| 1            | Programm in VS gestartet| Auf die Taste 1 drücken | 1 im Text Feld|          Ja|
+| 2            | Programm in VS gestartet | Auf die Tasten 1-9 drücken | 1-9 im Text Feld|          Ja|
+| 3            | Program in VS gestartet | Auf die Taste + drücken | + im Text Feld |         Ja |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute, am 16.1., habe ich meinen Base-Taschenrechner fast fertig geschafft. Ich war heute mega effizient unterwegs und habe fast alle Funktionen geschafft, die ich wollte. Ich sollte nächstes Mal genug Zeit haben um meine Settingstaste einzubauen. Ich kann mich auch nur nochmal wiederholen, dass ich am besten arbeite, wenn ich von Zuhause an den Projekten arbeiten kann. Ich werde nächstes Mal noch ausprobieren, ob ich vielleicht eine / und * Taste einbauen kann. (73 Wörter)
 
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
 
 ## 23.1.2024
 
