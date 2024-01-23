@@ -40,22 +40,22 @@ Darauf folgend habe ich in WinForms verschiedene Sachen ausprobiert, um sicherzu
 
 ## 23.1.2024
 
-- [ ] +/-/Enter Tasten Funktionieren
-- [ ] +/-/Enter Tasten Funktionieren / Extra Knopf für Einstellungen
-- [ ] Extra Knopf für Einstellungen / Einstellungen Menü 
+- [X] +/-/Enter Tasten Funktionieren
+- [X] +/-/Enter Tasten Funktionieren / Extra Knopf für Einstellungen
+- [X] Extra Knopf für Einstellungen / Einstellungen Menü 
 - [ ] Man kann die Farbe Blau auswählen dann sind die Knöpfe Blau.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1        |    Program in VS gestartet  | 1+1 per Tasten eingeben, dann Enter  |  2 im Textfeld |          |
-| 2     |   Program in VS gestartet    | 1-1 per Tasten eingeben, dann Enter  |    0 im Textfeld  |          |
-| 3   |  Program in VS gestartet  | Options Taste gedrückt  |   Options Menü öffnet sich   |          |
-| 4           |   Program in VS gestartet  | Options Taste gedrückt, Blau im Menü aussgewählt, zurück gedrückt | Knöpfe vom Taschenrechner sind Blau  |          |
+| 1        |    Program in VS gestartet  | 1+1 per Tasten eingeben, dann Enter  |  2 im Textfeld |        Ja |
+| 2     |   Program in VS gestartet    | 1-1 per Tasten eingeben, dann Enter  |    0 im Textfeld  |       Ja |
+| 3   |  Program in VS gestartet  | Options Taste gedrückt  |   Options Menü öffnet sich   |         Ja|
+| 4           |   Program in VS gestartet  | Options Taste gedrückt, Blau im Menü aussgewählt, zurück gedrückt | Knöpfe vom Taschenrechner sind Blau  |    Nein - Nur die Farbe in den Einstellungen.     |
 
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1. habe ich am Code weiter gearbeitet, nur leider habe ich es nicht geschafft, dass die Zwei Fenster Miteinander kommunizieren. Das heisst, aktuell kann der Code leider nur die Farbe im Settings-Menü verändern und nicht im Taschenrechner selber. Ich werde probieren, im Laufe der Woche noch mehr Zeit zu investieren in der Hoffnung, dass dann alles klappt. Sonst muss ich sagen, dass ich sehr zufrieden mit meiner Arbeit bin und ich viel dazu gelernt habe. (79 Wörter)
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+☝
 
 ## 30.1.2024
 
