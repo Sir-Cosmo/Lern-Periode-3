@@ -165,6 +165,7 @@
             this.Set_Button.TabIndex = 11;
             this.Set_Button.Text = "Set";
             this.Set_Button.UseVisualStyleBackColor = true;
+            this.Set_Button.Click += new System.EventHandler(this.Set_Click);
             // 
             // Enter_BTN
             // 

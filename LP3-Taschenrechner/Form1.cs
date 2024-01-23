@@ -1,12 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
+
 
 namespace LP3_Taschenrechner
 {
@@ -73,6 +76,31 @@ namespace LP3_Taschenrechner
                 default:
                     break;
             }
+        }
+
+        private void Set_Click(object sender, EventArgs e)
+        {
+            Form2 form = new Form2();
+            form.Show();
+        }
+    }
+}
+
+
+
+public class MyUserSettings : ApplicationSettingsBase
+{
+    [UserScopedSetting()]
+    [DefaultSettingValue("White")]
+    public Color BackgroundColor
+    {
+        get
+        {
+            return ((Color)this["BackgroundColor"]);
+        }
+        set
+        {
+            this["BackgroundColor"] = value;
         }
     }
 }

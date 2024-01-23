@@ -8,3 +8,4 @@ C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3-Taschenrechner
 C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3-Taschenrechner.exe
 C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3-Taschenrechner.pdb
 C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3_Taschenrechner.Form1.resources
+C:\Users\Tom School\source\repos\LP3-Taschenrechner\obj\Debug\LP3_Taschenrechner.Form2.resources
