@@ -59,10 +59,7 @@ Darauf folgend habe ich in WinForms verschiedene Sachen ausprobiert, um sicherzu
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
-
+✍️ Heute am 23.1 habe ich an meinem Code gearbeitet und ihn schöner gemacht. Des Weiteren habe ich mein Github Profil verbessert, in dem ich eine Bio hinzugefügt. Ich bin sehr zufrieden mit meinem Neuem Profil und hoffe, dass es in der Zukunft einen besseren Eindruck macht. (50 Wörter) 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
-
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Ich habe in dieser Lernperiode einen Taschenrechner programmiert, was mir sehr viel Spass gemacht hat und mir erlaubt hat, WinForms jetzt deutlich besser kennenzulernen. Des Weiteren habe ich auch viel über Github gelernt. Ich muss sagen, dass ich echt zufrieden mit meiner Arbeit bin, obwohl ich nicht ganz alles erreicht habe, was ich wollte. Ich hätte gerne wieder so eine Periode, aber mit einem PPL Tag am Anfang und einem PPL Tag am Ende, damit allfällige Fragen geklärt werden können. Ich fand 4 Wochen eine gute Zeit, aber in meinen Augen könnte es eine Woche mehr sein. Insgesamt fand ich es eine gute Lern-Periode.(105 Wörter)
